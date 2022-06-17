@@ -1,0 +1,25 @@
+body {
+    font-family: 'montserrat', sans-serif;
+}
+
+.navbar-costum {
+    background-color: lightseagreen !important;
+
+}
+
+.navbar-brand {
+    color: white;
+}
+
+#menu2 {
+    background-color: rgb(189, 242, 224);
+}
+
+#menuitem:hover {
+    background-color: rgb(62, 165, 131);
+    color: white;
+}
+
+#sec1 {
+    margin-top: 100px;
+}
